@@ -8,6 +8,6 @@ public class HelloDocker {
 
 	@RequestMapping("/docker")
 	public String hello() {
-		return "Hello! from Jenkinks to Docker!";
+		return "Hello! from Jenkinks to Docker!!!!! :)";
 	}
 }
